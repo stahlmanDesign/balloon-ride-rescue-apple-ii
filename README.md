@@ -1,6 +1,9 @@
 # balloon-ride-rescue
 Early version of an old Apple II BASIC game
 
+<video>
+  <source src="./balloon ride rescue 4MHz.mov" type="video/mp4">
+<video/>
 <img src="./brr.gif"/>
 <figcaption>
 Screen shots from the original Apple II. This was not the final version but is the only version whose source code survived.
