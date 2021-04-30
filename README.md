@@ -1,5 +1,5 @@
-# balloon-ride-rescue
-Early version of an old Apple II BASIC game
+# Balloon Ride Rescue
+Early version (v12) of an Apple II BASIC game
 
 <img src="./balloon ride rescue 4MHz.mov" type="video/mp4"/>
 
