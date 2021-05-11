@@ -1,7 +1,7 @@
 # Balloon Ride Rescue
 Early version (v12) of an Apple II BASIC game
 
-<img src="./balloon ride rescue 4MHz.mov" type="video/mp4"/>
+<img src="./balloon-ride-rescue-12-beagle-compiler.gif"/>
 
 <img src="./brr.gif"/>
 <figcaption>
